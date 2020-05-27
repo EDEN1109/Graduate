@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2627fa8f6ba2dd448b044f4300a91a63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sndExp: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - turret: {instanceID: 0}
+  - gun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
